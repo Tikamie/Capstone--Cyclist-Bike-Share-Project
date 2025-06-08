@@ -25,20 +25,23 @@ Projeto realizado durante o curso Google Data Analytics. A análise foca em uma 
 - Todos os 12 arquivos foram combinados em um unico arquivo em formato xls, como a soma de linhas ultrapassava 5 milhões os dados foram agrupados para melhorar a análise sem deixar nenhum dado de fora.  
 - Cálculo de métricas: número de viagens, duração média, tempo.
 
-## 4. 📊 Análise  
+## 4. 📊 Análise
+### Com os dados já prontos para análise, vou coloca-los em prática.
 - Comparei uso Mensal, diario e o horário por tipo de usuários.  
 - Identifiquei picos (ex.: Sasonalidade, finais de semana, horas do dia).  
 - Usei gráficos de coluna para visualização.
 
-## 5. 🧠 Insights  
-- Picos de uso em meses quentes (dezembro–fevereiro).  
-- Uso concentrado em fins de semana (sábado e domingo).  
-- Demanda menor durante feriados prolongados.
+## 5. 🧠 Insights 
+### Agora, nosso foco está em apresentar e comunicar efetivamente nossos resultados.
+Insights:
+- Picos de uso em meses quentes.  
+- Uso concentrado em fins de semana para casuais e dias de semana para assinantes .
+ 
 
 ## 6. 📣 Recomendações  
-- Promoções no início do verão para fidelizar novos usuários.  
-- Planos semanais ou pacotes fim de semana.  
-- Parcerias com eventos e pontos turísticos para atrair turistas.
+- Campanhas para destacar as vantagens de ser um assinante anual e seus beneficios com o uso diario.  
+- Investir em infraestrutura para atrair mais clientes tais como criar estações perto de centros turisticos e comerciais.  
+- Implementar programas de fidelidade, para manter o uso do serviço constante mesmo em temporadas mais frias.
 
 ---
 
