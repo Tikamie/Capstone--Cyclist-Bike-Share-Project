@@ -1,22 +1,26 @@
-# Capstone--Cyclist-Bike-Share-Project
+# Capstone: Cyclist-Bike-Share-Project
 A full report of a TCC project from the course Google Data Analytics
 # 🚲 Análise de Uso de Bicicletas – Projeto Google Data Analytics
 
 **Contexto:**  
-Projeto realizado durante o curso Google Data Analytics. A análise foca em uma empresa fictícia de aluguel de bicicletas, cobrindo todas as seis etapas do processo—de "Entendimento do problema" a "Comunicação".
+Projeto realizado durante o curso Google Data Analytics. A análise foca em uma empresa fictícia de aluguel de bicicletas, cobrindo todas as seis etapas do processo desde o "Entendimento do problema" a "Ações recomendadas".
 
 ---
 
-## 1. 🧭 Entendimento do Problema  
-- **Objetivo:** Identificar padrões de uso (meses, dias da semana)  
-- **Perguntas:** Quais os meses de maior demanda? Quais dias da semana têm mais usuários?  
-- **Stakeholders:** Gerência de operações e marketing da empresa
+## 1. 🧭 Fase Ask  
+### São definidos 3 problemas principais e um deles será selecionado pelos stakeholders para guiar nosso projeto. 
+- I. **Como Assinantes e ciclistas casuais utilizam bicicletas de maneira distinta?** ✅
+- II. Motivo de os ciclistas casuais migrarem para assinanturas anuais. ❌
+- III. Como a Cyclistic pode utilizar as mídias digitais para influenciar ciclistas casuais a se tornarem assinantes? ❌
 
-## 2. 🗂️ Preparação dos Dados  
-- Importação dos dados brutos (CSV/Excel).  
-- Tratamento de valores faltantes, formatação de datas, padronização de colunas.
+## 2. 🗂️ Fase Prepare 
+### Coletamos e armazenamos informações que fazem sentido para o nosso projeto.
+-  Os dados são públicos provenientes do banco de dados de viagens do divvybikes. O conteúdo extraido contém informações desde Id e horário das viagens a geolocalização das bicicletas.
+- Para essa analise eu foquei no historico das datas de viagens e seus membros para analisar e reconhecer tendências.
 
-## 3. 🧩 Exploração dos Dados  
+## 3. 🧩 Exploração dos Dados
+### Os dados são limpos e preparados para análise.
+
 - Análise de frequências por mês e dia da semana.  
 - Cálculo de métricas: número de viagens, duração média, sazonalidade.
 
@@ -38,4 +42,13 @@ Projeto realizado durante o curso Google Data Analytics. A análise foca em uma 
 ---
 
 ## 📁 Estrutura do Repositório
+![image](https://github.com/user-attachments/assets/dcd462a6-1e74-4c4e-8918-b48439fb6995)
+![image](https://github.com/user-attachments/assets/6f0959f5-626b-46ee-a325-87f36b432c01)
+![image](https://github.com/user-attachments/assets/3b0ce349-92f9-415d-afe5-ae602712c45c)
+![image](https://github.com/user-attachments/assets/fdd6ca15-6f94-46d2-9915-7d38a8320d2c)
+
+
+
+
+
 
