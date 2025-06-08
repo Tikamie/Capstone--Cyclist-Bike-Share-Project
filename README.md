@@ -12,9 +12,9 @@ Projeto realizado durante o curso Google Data Analytics. A análise foca em uma 
 
 ## 1. 🧭 Ask  
 ### São definidos 3 problemas principais e um deles será selecionado pelos stakeholders para guiar nosso projeto. 
-- I. **Como Assinantes e ciclistas casuais utilizam bicicletas de maneira distinta?** ✅
-- II. Motivo de os ciclistas casuais migrarem para assinanturas anuais. ❌
-- III. Como a Cyclistic pode utilizar as mídias digitais para influenciar ciclistas casuais a se tornarem assinantes? ❌
+- I. **Como Assinantes e ciclistas casuais utilizam bicicletas de maneira distinta?** 
+- II. Motivo de os ciclistas casuais migrarem para assinanturas anuais. 
+- III. Como a Cyclistic pode utilizar as mídias digitais para influenciar ciclistas casuais a se tornarem assinantes? 
 
 ## 2. 🗂️ Prepare 
 ### Coletamos e armazenamos informações que fazem sentido para o nosso projeto.
