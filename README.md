@@ -36,9 +36,11 @@ Projeto realizado durante o curso Google Data Analytics. A análise foca em uma 
 Insights:
 - Picos de uso em meses quentes.  
 - Uso concentrado em fins de semana para casuais e dias de semana para assinantes .
+- Assinantes anuais tendem a utilizar o serviço para ir ao trabalho enquanto casuais usam de forma recreativa.
  
 
 ## 6. 📣 Recomendações  
+### Ultima fase onde concluimos nosso projeto e implementamos a tomada de decisões baseada em dados.
 - Campanhas para destacar as vantagens de ser um assinante anual e seus beneficios com o uso diario.  
 - Investir em infraestrutura para atrair mais clientes tais como criar estações perto de centros turisticos e comerciais.  
 - Implementar programas de fidelidade, para manter o uso do serviço constante mesmo em temporadas mais frias.
