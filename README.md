@@ -49,7 +49,9 @@ Insights:
 - Implementar programas de fidelidade, para manter o uso do serviço constante mesmo em temporadas mais frias.
 
 ---
-## Relatório:
+## Relatório: 
+
+Apresentação em português: [Portuguese report.pdf](https://github.com/user-attachments/files/20646793/Portuguese.report.pdf) ou [Este link](https://github.com/Tikamie/Apresenta-o-Bike-Share/blob/main/README.md)
 Apresentação (Inglês): [PDF](https://github.com/user-attachments/files/20646382/Cyclist.bike.Share.-.TCC.do.curso.Google.Data.Analytics.pdf) Ou [Este Link](https://github.com/Tikamie/Report-Case-Study-Cyclistic-Bike-Share/blob/main/README.md)
 
 ---
