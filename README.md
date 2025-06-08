@@ -15,19 +15,20 @@ Projeto realizado durante o curso Google Data Analytics. A análise foca em uma 
 
 ## 2. 🗂️ Fase Prepare 
 ### Coletamos e armazenamos informações que fazem sentido para o nosso projeto.
--  Os dados são públicos provenientes do banco de dados de viagens do divvybikes. O conteúdo extraido contém informações desde Id e horário das viagens a geolocalização das bicicletas.
+-  Os dados são públicos provenientes do banco de dados de viagens do divvybikes. O conteúdo extraido foram 12 documentos em CSV, cada documento é referente a 1 Mês dos ano de 2023 e contém informações desde Id's das corridas, horário das viagens a geolocalização das bicicletas.
 - Para essa analise eu foquei no historico das datas de viagens e seus membros para analisar e reconhecer tendências.
 
 ## 3. 🧩 Exploração dos Dados
 ### Os dados são limpos e preparados para análise.
 
-- Análise de frequências por mês e dia da semana.  
-- Cálculo de métricas: número de viagens, duração média, sazonalidade.
+- Foram removidas colunas irrelavantes para o projeto e criadas colunas para melhor identificar as tendências tais como uso por: Mês, Dia e hora.
+- Todos os 12 arquivos foram combinados em um unico arquivo em formato xls, como a soma de linhas ultrapassava 5 milhões os dados foram agrupados para melhorar a análise sem deixar nenhum dado de fora.  
+- Cálculo de métricas: número de viagens, duração média, tempo.
 
 ## 4. 📊 Análise  
-- Comparei uso mensal vs. dias da semana.  
-- Identifiquei picos (ex.: verão, finais de semana).  
-- Usei gráficos de linha e heatmaps para visualização.
+- Comparei uso Mensal, diario e o horário por tipo de usuários.  
+- Identifiquei picos (ex.: Sasonalidade, finais de semana, horas do dia).  
+- Usei gráficos de coluna para visualização.
 
 ## 5. 🧠 Insights  
 - Picos de uso em meses quentes (dezembro–fevereiro).  
@@ -43,9 +44,7 @@ Projeto realizado durante o curso Google Data Analytics. A análise foca em uma 
 
 ## 📁 Estrutura do Repositório
 ![image](https://github.com/user-attachments/assets/dcd462a6-1e74-4c4e-8918-b48439fb6995)
-![image](https://github.com/user-attachments/assets/6f0959f5-626b-46ee-a325-87f36b432c01)
-![image](https://github.com/user-attachments/assets/3b0ce349-92f9-415d-afe5-ae602712c45c)
-![image](https://github.com/user-attachments/assets/fdd6ca15-6f94-46d2-9915-7d38a8320d2c)
+
 
 
 
