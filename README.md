@@ -13,7 +13,7 @@ Projeto realizado durante o curso Google Data Analytics. A análise foca em uma 
 ## 1. 🧭 Ask  
 ### Identificar qual o problema a ser resolvido, entender os stakeholders e gerar percepções que possam levar a possíveis tomadas de decisões.
 
-### São definidos 3 problemas principais que servirão para guiar nosso projeto:
+#### São definidos 3 problemas principais que servirão para guiar nosso projeto:
 - I. **Como assinantes anuais e ciclistas casuais utilizam bicicletas de maneira distinta?** 
 - II. Motivo de os ciclistas casuais migrarem para assinanturas anuais. 
 - III. Como a Cyclistic pode utilizar as mídias digitais para influenciar ciclistas casuais a se tornarem assinantes anuais? 
