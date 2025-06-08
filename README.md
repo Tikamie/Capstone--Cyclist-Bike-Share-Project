@@ -53,7 +53,7 @@ Insights:
 
 Apresentação em português: [PDF](https://github.com/user-attachments/files/20646793/Portuguese.report.pdf) ou [Este link](https://github.com/Tikamie/Apresenta-o-Bike-Share/blob/main/README.md)
 
-Apresentação em Inglês: [PDF](https://github.com/user-attachments/files/20646382/Cyclist.bike.Share.-.TCC.do.curso.Google.Data.Analytics.pdf) Ou [Este Link](https://github.com/Tikamie/Report-Case-Study-Cyclistic-Bike-Share/blob/main/README.md)
+Apresentação em Inglês: [PDF](https://github.com/user-attachments/files/20646382/Cyclist.bike.Share.-.TCC.do.curso.Google.Data.Analytics.pdf) ou [Este Link](https://github.com/Tikamie/Report-Case-Study-Cyclistic-Bike-Share/blob/main/README.md)
 
 ---
 
@@ -61,7 +61,7 @@ Apresentação em Inglês: [PDF](https://github.com/user-attachments/files/20646
 ![image](https://github.com/user-attachments/assets/dcd462a6-1e74-4c4e-8918-b48439fb6995)
 
 
-Apresentação (Inglês): [PDF](https://github.com/user-attachments/files/20646382/Cyclist.bike.Share.-.TCC.do.curso.Google.Data.Analytics.pdf) Ou [Este Link](https://github.com/Tikamie/Report-Case-Study-Cyclistic-Bike-Share/blob/main/README.md)
+
 
 
 
