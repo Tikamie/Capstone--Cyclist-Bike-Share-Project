@@ -54,6 +54,7 @@ Insights:
 ![image](https://github.com/user-attachments/assets/dcd462a6-1e74-4c4e-8918-b48439fb6995)
 
 
+Apresentação (Inglês): [Apresentação](https://github.com/user-attachments/files/20646382/Cyclist.bike.Share.-.TCC.do.curso.Google.Data.Analytics.pdf)
 
 
 
