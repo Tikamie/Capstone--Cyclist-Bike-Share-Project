@@ -69,7 +69,7 @@ Apresentação em Inglês: [PDF](https://github.com/user-attachments/files/20646
 
 ## 🗂️ Dados
 
-📑 [Dados Limpos](https://github.com/user-attachments/files/20646815/Cleaned.Data.xlsx)
+📑 [Dados Limpos ](https://github.com/user-attachments/files/20646815/Cleaned.Data.xlsx)
 📦 [Exemplo de dado bruto](https://divvy-tripdata.s3.amazonaws.com/202401-divvy-tripdata.zip)
 
 
