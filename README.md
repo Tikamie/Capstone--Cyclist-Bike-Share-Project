@@ -1,7 +1,7 @@
 # Capstone: Cyclist Bike Share Project
 Processo documentado do relatório: Cyclist bike Share - TCC do curso Google Data Analytics.
 
-# 🚲 Case study: Como um sistema de compartilhamento de bicicletas alcança sucesso rápido?  
+#Case study: Como um sistema de compartilhamento de bicicletas alcança sucesso rápido?  
 
 ## **Contexto:**  
 Cyclist é uma empresa voltada a uso de bicicletas compartilhadas que atualmente tem dois principais tipos de usuários: casuais e assinantes anuais. Seu departamento de maketing pretende converter o maior numero possível de usuários casuais para assinantes anuais. No entanto a equipe precisa compreender de maneira clara e objetiva, qual a principal diferença de uso entre seus usuários e como cada tipo de usuários se comporta. 
